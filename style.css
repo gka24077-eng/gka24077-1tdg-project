@@ -1,7 +1,3 @@
-::view-transition-image-pair{ width: 10%;}
-image{height: 10%;}
-
-
 .container {
     display: flex;
     flex-direction: row ;
