@@ -42,10 +42,39 @@ img {
     padding: 14px 16px;
   }
 
-  
-
-.center {
+  .center {
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
+body {
+    background-color: pink;
+  }
+
+body {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+h1 {
+    font-size: 40px;
+  }
+
+h1 {
+    text-align: center;
+  }
+.navbar {
+    border: 10px solid black; /* Required for border-image */
+    padding: 15px;
+  }
+
+  
+  
+
+  
+
+
+
+
+  
+    
