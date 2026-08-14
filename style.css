@@ -68,6 +68,12 @@ h1 {
     padding: 15px;
   }
 
+.text{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
 
   
   
