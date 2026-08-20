@@ -56,11 +56,12 @@ body {
 
 h1 {
     font-size: 40px;
+    text-align: center;
+    font-style: normal;
+
   }
 
-h1 {
-    text-align: center;
-  }
+
 .navbar {
     border: 10px solid black; /* Required for border-image */
     padding: 15px;
@@ -76,6 +77,13 @@ h1 {
   font-size: 180%;
   
 
+}
+
+.showcase-container img {
+  width: 110%;
+}
+.text {
+  font-size: large;
 }
 
 
